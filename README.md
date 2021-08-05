@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @JackRichardson666
+- 👀 I’m interested in Garry's mod
+- 🌱 I’m currently learning C++, Python, nodeJS
+- 📫 How to reach me - https://discord.gg/nThzkpHgh3
