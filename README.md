@@ -27,11 +27,10 @@ I am a Middle Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-</div>
-
-<div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
 </div>
+
+
 
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-plain.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
@@ -45,9 +44,4 @@ I am a Middle Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 ### :fire: My Stats :
 
-https://github-readme-streak-stats.herokuapp.com/?user=JackRichardson666
-
-
-
-        
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JackRichardson666)](https://github.com/anuraghazra/github-readme-stats)
