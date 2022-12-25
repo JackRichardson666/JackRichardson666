@@ -1,8 +1,4 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="100"/>
-</div>
-
-<div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=JackRichardson666&style=flat-square&color=blue" alt=""/>
 </div>
 
@@ -10,10 +6,6 @@
   Welcome to my profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="600" height="300"/>
-</div>
 
 ### :man_technologist: About Me :
 
